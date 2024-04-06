@@ -1,0 +1,50 @@
+[
+    {
+        "id": "b1699b2e-7b23-49f3-b626-d28f22d297ab",
+        "code": 3766,
+        "name": "Afghan Hound",
+        "description": "crur doloremque atqui ceno vicinus circumvenio vaco arguo",
+        "productCode": 5031,
+        "discount": 46.88205723534338
+    },
+    {
+        "id": "7a2e915a-a699-4a7f-b875-8929390cae6a",
+        "code": 3916,
+        "name": "German Pinscher",
+        "description": "molestias cupio vinculum officia curtus creptio sumptus vergo tenetur thalassinus tonsor creta thema conculco creber sapiente voluntarius corroboro",
+        "productCode": 5031,
+        "discount": 18.569097582949325
+    },
+    {
+        "id": "fb4754c8-cb7e-42b7-9033-c5250c3b2410",
+        "code": 8927,
+        "name": "Podenco Canario",
+        "description": "officia demo aut acer adsidue thymbra tristis adaugeo desparatus voro degusto apud laudantium tenax depromo adficio stella cenaculum acies creptio",
+        "productCode": 5031,
+        "discount": 34.83554533449933
+    },
+    {
+        "id": "2c76d81a-a8bc-49ed-b50e-1b95b72cc1a5",
+        "code": 5546,
+        "name": "Dutch Smoushond",
+        "description": "qui ascit tres tollo reprehenderit vobis defessus cavus vacuus sub",
+        "productCode": 5031,
+        "discount": 18.771096378332004
+    },
+    {
+        "id": "2a0a9e99-b6f8-4690-ac6b-e53c680d6ab7",
+        "code": 7692,
+        "name": "Doberman Pinscher",
+        "description": "terebro subseco odit tabgo eum",
+        "productCode": 5031,
+        "discount": 16.158241021912545
+    },
+    {
+        "id": "b1699b2e-7b23-49f3-b626-d28f22d297ab",
+        "code": 3766,
+        "name": "Afghan discount",
+        "description": "crur doloremque atqui ceno vicinus circumvenio vaco arguo",
+        "productCode": 3136,
+        "discount": 46.88205723534338
+    }
+]

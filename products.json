@@ -1,0 +1,37 @@
+[
+    {
+        "id": "cfa50185-a8d2-434f-929e-33aedef7ccb8",
+        "code": 5031,
+        "name": "Argon",
+        "description": "cohors quaerat speciosus conservo abeo absque despecto defaeco ascit tribuo una cresco alveus vinco subiungo delectatio cauda demonstro eligendi conforto",
+        "price": 16.45967440214008
+    },
+    {
+        "id": "e9e4ecbc-298f-4c99-97ea-0c94b286ffb2",
+        "code": 3136,
+        "name": "Nobelium",
+        "description": "temperantia celer cupiditas cumque dolores corpus vallum",
+        "price": 12.121137883514166
+    },
+    {
+        "id": "ae1a9a2b-9261-4c61-a45c-666ece137cf1",
+        "code": 5445,
+        "name": "Potassium",
+        "description": "sollers admitto porro cuppedia conturbo demonstro absum sponte triumphus vapulus aranea",
+        "price": 22.534946664236486
+    },
+    {
+        "id": "c2d731c4-a36e-4acc-aa6f-3bb87bdb103f",
+        "code": 3213,
+        "name": "Silicon",
+        "description": "utroque tergo cresco adamo abbas cena bestia torqueo stipes suppellex",
+        "price": 15.697356420569122
+    },
+    {
+        "id": "45724dc9-bbed-4154-80c9-c23c0abd97f8",
+        "code": 4269,
+        "name": "Hydrogen",
+        "description": "adinventitias ratione thymbra dedecor tactus amplitudo conduco sit clam vox totam utor varius tempore laudantium ultio acceptus summopere libero tardus",
+        "price": 6.956701409071684
+    }
+]
